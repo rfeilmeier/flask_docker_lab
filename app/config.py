@@ -2,7 +2,7 @@
 import os
 
 # Title of the site
-SITE_TITLE = 'Bobs Docker Lab'
+SITE_TITLE = 'Bobs Lab or atory'
 # The URL for static files/images
 STATIC_URL = 'https://s3-us-west-2.amazonaws.com/flaskdockerlab-static/'
 # The name of the
